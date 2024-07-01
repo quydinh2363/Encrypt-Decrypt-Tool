@@ -13,21 +13,27 @@ This project is written by Python, provides a simple GUI tool for encrypting and
 - User-friendly GUI
 
 ## You will find in this repo:
+
 * enc_app.py is a code file.
 * You can find the .exe file in the dist folder.
 
 ## Installation:
+
 - **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/encryption-decryption-tool.git
    cd encryption-decryption-tool
+   
 - You can go to the dist folder and run the .exe file.
 - Encrypt a File:
+
  1. Click the "Encrypt" button.
  2. Select the file you want to encrypt.
  3. Save the encrypted password file (this is required for decryption).
  4. Save the encrypted file.
+
 - Decrypt a File:
+
  1. Click the "Decrypt" button.
  2. Select the encrypted file you want to decrypt.
  3. Select the password file.
