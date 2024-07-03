@@ -21,7 +21,7 @@ This project is written by Python, provides a simple GUI tool for encrypting and
 
 - **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/encryption-decryption-tool.git
+   git clone https://github.com/quydinh2363/Encrypt-Decrypt-Tool.git
    cd encryption-decryption-tool
    
 - You can go to the dist folder and run the .exe file.
