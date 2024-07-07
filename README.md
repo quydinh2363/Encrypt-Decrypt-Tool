@@ -12,6 +12,12 @@ This project is written by Python, provides a simple GUI tool for encrypting and
 - Secure password generation and encryption
 - User-friendly GUI
 
+## Preview Screenshots
+
+![image1](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/image.png)
+
+![image2](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/image%202.png)
+
 ## You will find in this repo:
 
 * enc_app.py is a code file.
