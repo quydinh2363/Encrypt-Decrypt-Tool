@@ -28,25 +28,24 @@ This project is written by Python, provides a simple GUI tool for encrypting and
 - Encrypt a File:
 
  1. Click the "Encrypt" button.
- ![image1!](image Readme/select for encrypt or encrypt.png)
+ ![image1!](images/select for encrypt or encrypt.png)
  2. Select the file you want to encrypt.
- ![image2!](image Readme/Choose file for encrypt.png)
+ ![image2!](images/Choose file for encrypt.png)
  3. Save the encrypted password file (this is required for decryption).
- ![image3!](image Readme/choose the password file.png)
+ ![image3!](images/choose the password file.png)
  4. Save the encrypted file.
 
 - Decrypt a File:
 
  1. Click the "Decrypt" button.
- ![image1!](image Readme/select for encrypt or encrypt.png)
+ ![image1!](images/select for encrypt or encrypt.png)
  2. Select the encrypted file you want to decrypt.
- ![image2!](image Readme/choose file for decrypting.png)
+ ![image2!](images/choose file for decrypting.png)
  3. Select the password file.
- ![image3!](image Readme/the location of file password.png)
+ ![image3!](images/the location of file password.png)
  4. Enter the password when prompted.
- ![image4!](image Readme/enter the password and save file.png)
+ ![image4!](images/enter the password and save file.png)
  5. Save the decrypted file.
-
 # Encryption/Decryption Tool
 
 ![Encryption/Decryption Tool](https://img.shields.io/badge/version-1.0-blue.svg)
