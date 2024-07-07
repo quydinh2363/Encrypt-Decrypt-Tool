@@ -31,6 +31,7 @@ This project is written by Python, provides a simple GUI tool for encrypting and
    cd encryption-decryption-tool
    
 - You can go to the dist folder and run the .exe file.
+- The window defender may be misunderstood and not allowed to download. But, you just need to copy file.py and run it.
 - Encrypt a File:
 
  1. Click the "Encrypt" button.
