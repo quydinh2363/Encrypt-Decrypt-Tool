@@ -51,7 +51,7 @@ This project is written by Python, provides a simple GUI tool for encrypting and
 ![Encryption/Decryption Tool](https://img.shields.io/badge/version-1.0-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-### 2024 quydinh2363
+### type &copy | 2024 quydinh2363
 
 
 
