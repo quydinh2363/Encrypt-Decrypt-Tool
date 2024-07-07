@@ -28,27 +28,18 @@ This project is written by Python, provides a simple GUI tool for encrypting and
 - Encrypt a File:
 
  1. Click the "Encrypt" button.
- ![image1!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/select%20for%20encrypt%20or%20encrypt.png)
  2. Select the file you want to encrypt.
- ![image2!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/Choose%20file%20for%20encrypt.png)
  3. Save the encrypted password file (this is required for decryption).
- ![image3!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/choose%20the%20password%20file.png)
- ![image4!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/the%20file%20password%20will%20be%20saved%20in%20the%20folder%20you%20choose%20for%20encrypting%20file.png)
  4. Save the encrypted file.
 
 - Decrypt a File:
 
  1. Click the "Decrypt" button.
- ![image1!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/select%20for%20encrypt%20or%20encrypt.png)
  2. Select the encrypted file you want to decrypt.
- ![image2!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/choose%20file%20for%20decrypting.png)
- ![image3!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/file%20have%20been%20encrypted.png)
  3. Select the password file.
- ![image4!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/the%20location%20of%20file%20password.png)
  4. Enter the password when prompted.
- ![image5!](https://github.com/quydinh2363/Encrypt-Decrypt-Tool/blob/main/images/enter%20the%20password%20and%20save%20file.png)
  5. Save the decrypted file whenever you want.
- 
+
 # Encryption/Decryption Tool
 
 ![Encryption/Decryption Tool](https://img.shields.io/badge/version-1.0-blue.svg)
